@@ -1,0 +1,5 @@
+{
+  "supportFile": "cypress/support/index.ts",
+  "video": false,
+  "ignoreTestFiles": "**/examples/*"
+}
