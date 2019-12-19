@@ -8,8 +8,9 @@ Plugins como eslint, prettier e husky foram utilizados. Portanto,
 ## Instalação
 
 ```bash
-npm install
 yarn
+# caso não tenha yarn instalado, faça:
+npm install
 ```
 
 ## Como usar
